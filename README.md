@@ -1,8 +1,8 @@
 <h1 align="center">Hallo 👋, Eu sou Lucas Oliveira</h1>
 <h3 align="center">Curioso e entusiasmado para saber o que os dados falam.</h3>
 
-- 🌱 Atualmente estou aprendendo Python e Machine Learning **Pandas, Numpy, Scikt-Learn, Tensorflow, Matplotlib**
-
+- 🌱 Atualmente estou aprendendo Python e Machine Learning.
+- 📝 Estudante de Engenharia de Computação **UFOP**
 - 📫 ocê me acha através do e-mail **lucascosta6000@hotmai.com**
 
 <h3 align="left">Connect with me:</h3>
