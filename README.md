@@ -2,7 +2,7 @@
 <h3 align="center">Curioso e entusiasmado para saber o que os dados falam.</h3>
 
 - 🌱 Atualmente estou aprendendo Python e Machine Learning.
-- 📝 Estudante de Engenharia de Computação **UFOP**
+- 📝 Estudante de Engenharia de Computação na **UFOP**
 - 📫 Você me acha através do e-mail **lucascosta6000@hotmai.com**
 
 <h3 align="left">Connect with me:</h3>
