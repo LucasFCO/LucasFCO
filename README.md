@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo Python e Machine Learning.
 - 📝 Estudante de Engenharia de Computação na **UFOP**
-- 📫 Você me acha através do e-mail **lucascosta6000@hotmai.com**
+- 📫 Você me acha através do e-mail **lucascosta6000@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
